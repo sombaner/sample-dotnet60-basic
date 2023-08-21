@@ -1,1 +1,1 @@
-# devfile-sample-dotnet60-basic
+# sample-dotnet60-basic
